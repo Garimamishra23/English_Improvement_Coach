@@ -46,7 +46,7 @@ final_df = pd.DataFrame(collected_rows)
 output_path = (
     # paste your output csv path here
    
-   # r"C:\projects\English-Improvement-Coach-for-Indian-Accented-Tones-main\notebook\svarah_first_100_no_path.csv"
+   # r"C:\projects\English-Improvement-Coach\notebook\svarah_first_100_no_path.csv"
 )
 final_df.to_csv(output_path, index=False, encoding="utf-8")
 
