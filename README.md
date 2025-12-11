@@ -130,9 +130,8 @@ This project was inspired by literature on inclusive ASR systems and the need fo
 
 ## 👨‍💻 Contributors
 
-- **Roshan A Rauof** 
+- **Garima Mishra** 
 - **Amritha K** 
-- **Reem Fariha** 
 - **Shifana Mehar** 
 
 ---
