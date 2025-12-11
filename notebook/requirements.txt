@@ -1,0 +1,7 @@
+torch
+torchaudio
+librosa
+whisper
+transformers
+google-cloud-texttospeech
+jiwer
