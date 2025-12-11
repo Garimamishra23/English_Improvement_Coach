@@ -1,12 +1,28 @@
+# Core ML & Audio
 torch
 torchaudio
 librosa
-openai-whisper
-transformers
-google-cloud-texttospeech
-jiwer
 soundfile
 numpy
-requests
-protobuf
+
+# Whisper ASR
+openai-whisper
+
+# HuggingFace models (HuBERT, Wav2Vec2, Grammar Corrector)
+transformers
 sentencepiece
+protobuf
+requests
+
+# TTS (Google Cloud)
+google-cloud-texttospeech
+
+# Metrics
+jiwer
+
+# Parquet + Data Processing
+pyarrow
+pandas
+
+# Optional utilities
+tqdm
