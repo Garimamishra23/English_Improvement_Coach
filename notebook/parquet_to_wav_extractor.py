@@ -15,7 +15,7 @@ parquet_files = [
 # 2. Output directory for WAV files
 
 out_dir =  "paste your output directory here"
-# out_dir= r"C:\projects\English-Improvement-Coach-for-Indian-Accented-Tones-main\notebook\data"
+# out_dir= r"C:\projects\English-Improvement-Coach\notebook\data"
 os.makedirs(out_dir, exist_ok=True)
 
 index = 0
